@@ -19,7 +19,6 @@ package me.tatarka.bindingcollectionadapter2.multitype;
 import android.support.annotation.NonNull;
 
 /**
- * @author drakeet
  */
 public final class DefaultLinker<T> implements Linker<T> {
 

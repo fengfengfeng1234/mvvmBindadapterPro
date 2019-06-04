@@ -24,7 +24,6 @@ import me.tatarka.bindingcollectionadapter2.ItemVM;
 /**
  * Process and flow operators for one-to-many.
  *
- * @author drakeet
  */
 public interface OneToManyFlow<T> {
 

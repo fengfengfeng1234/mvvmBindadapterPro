@@ -23,7 +23,6 @@ import me.tatarka.bindingcollectionadapter2.ItemVM;
 /**
  * An ordered collection to hold the types, binders and linkers.
  *
- * @author drakeet
  */
 public interface TypePool {
 

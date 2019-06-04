@@ -23,7 +23,6 @@ import java.util.Arrays;
 import me.tatarka.bindingcollectionadapter2.ItemVM;
 
 /**
- * @author drakeet
  */
 final class ClassLinkerWrapper<T> implements Linker<T> {
 

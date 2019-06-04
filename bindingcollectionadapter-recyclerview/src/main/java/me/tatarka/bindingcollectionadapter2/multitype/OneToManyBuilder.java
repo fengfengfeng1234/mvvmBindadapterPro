@@ -24,7 +24,6 @@ import me.tatarka.bindingcollectionadapter2.ItemVM;
 
 
 /**
- * @author drakeet
  */
 class OneToManyBuilder<T> implements OneToManyFlow<T>, OneToManyEndpoint<T> {
 

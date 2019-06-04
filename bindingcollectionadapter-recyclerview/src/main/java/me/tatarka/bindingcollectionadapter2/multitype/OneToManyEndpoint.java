@@ -21,7 +21,6 @@ import android.support.annotation.NonNull;
 /**
  * End-operators for one-to-many.
  *
- * @author drakeet
  */
 public interface OneToManyEndpoint<T> {
 

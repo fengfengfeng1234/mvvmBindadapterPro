@@ -29,7 +29,6 @@ import me.tatarka.bindingcollectionadapter2.ItemVM;
 /**
  * An List implementation of TypePool.
  *
- * @author drakeet
  */
 public class MultiTypePool implements TypePool {
 

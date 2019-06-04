@@ -19,7 +19,7 @@ package me.tatarka.bindingcollectionadapter2.multitype;
 import android.support.annotation.NonNull;
 
 /**
- * @author drakeet
+ *
  */
 public class BinderNotFoundException extends RuntimeException {
 
