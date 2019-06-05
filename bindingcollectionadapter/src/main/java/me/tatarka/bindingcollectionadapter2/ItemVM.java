@@ -21,7 +21,6 @@ public abstract class ItemVM<T,VM extends ViewDataBinding> extends ViewModel {
 
     protected abstract  int getLayout();
 
-    protected   int position;
 
 
 }

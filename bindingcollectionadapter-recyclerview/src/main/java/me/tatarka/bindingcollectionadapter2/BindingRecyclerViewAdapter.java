@@ -118,7 +118,6 @@ public class BindingRecyclerViewAdapter<T> extends RecyclerView.Adapter<ViewHold
     public void onBindBinding(ViewDataBinding binding, int position, T item, ItemVM itemVM) {
         boolean result = binding.setVariable(itemVM.getVariableId(), itemVM);
         itemVM.onBindViewHolder(binding, item);
-        itemVM.position = position;
         if (result) {
             binding.executePendingBindings();
         }
